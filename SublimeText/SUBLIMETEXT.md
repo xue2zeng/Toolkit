@@ -17,6 +17,22 @@
   "show_encoding": true // 显示当前文件编码
 ```
 
+###插件
+* Side​Bar​Enhancements
+>     增强文件夹中文件右键选项操作
+>
+> 使用Seti_UI主题，左侧边栏默认为灰白色。为了使其更加美观需要修改C:\Users\XXX\AppData\Roaming\Sublime Text 3\Packages\User\Default.sublime-theme文件，编辑如下四项：
+>
+> * "class": "sidebar_container" // 侧边栏与主文件区分割线内颜色
+> * "class": "sidebar_tree" // 侧边栏文件夹树形菜单背景色
+> * "class": "sidebar_label" // 侧边栏目录名以及文件名颜色
+> * "class": "sidebar_heading"
+>
+> __备注：__
+> 参考 [stackoverflow](http://stackoverflow.com/questions/13580561/sublime-text-2-change-side-bar-color)
+> ，及[个人设置](https://github.com/xue2zeng/Toolkit/blob/master/SublimeText/Default.sublime-theme)
+
+
 ###Fedora安装Sublime Text
 ```
 [root@localhost ~]# wget https://gist.githubusercontent.com/simonewebdesign/8507139/raw/e1e7f6a302d44902dc0805eaf85344f1c4e84425/install_sublime_text.sh
