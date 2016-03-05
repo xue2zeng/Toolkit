@@ -1,32 +1,20 @@
 #Sublime Text
 ###个人偏好设置
 ```JSON
-  "theme": "Seti_orig.sublime-theme",
-  // 设置字体大小：12
-  "font_size": 10,
-  // 显示Tab,空格等空白字符
-  "draw_white_space": "all",
-  // 行宽标尺
-  "rulers": [80,100],
+  "theme": "Seti_orig.sublime-theme", //使用Seti_UI主题
+  "font_size": 10, // 设置字体大小：12
+  "draw_white_space": "all", // 显示Tab,空格等空白字符
+  "rulers": [80,100], // 行宽标尺
   "smart_indent": true,
-  // 设置tab键缩进为：2
-  "tab_size": 2,
-  // 使用空格代替tab
-  "translate_tabs_to_spaces": true,
-  // 保存时自动去除行末空白
-  "trim_automatic_white_space": true,
-  // 保存时自动增加文件末尾换行
-  "ensure_newline_at_eof_on_save": true,
-  // 使光标闪动更加柔和
-  "caret_style": "phase",
-  // 高亮当前行
-  "highlight_line": true,
-  // 高亮有修改的标签
-  "highlight_modified_tabs": true,
-  // 失去焦点自动保存
-  "save_on_focus_lost": true,
-  // 显示当前文件编码
-  "show_encoding": true
+  "tab_size": 2, // 设置tab键缩进为：2
+  "translate_tabs_to_spaces": true, // 使用空格代替tab
+  "trim_automatic_white_space": true, // 保存时自动去除行末空白
+  "ensure_newline_at_eof_on_save": true, // 保存时自动增加文件末尾换行
+  "caret_style": "phase", // 使光标闪动更加柔和
+  "highlight_line": true, // 高亮当前行
+  "highlight_modified_tabs": true, // 高亮有修改的标签
+  "save_on_focus_lost": true, // 失去焦点自动保存
+  "show_encoding": true // 显示当前文件编码
 ```
 
 ###Fedora安装Sublime Text
