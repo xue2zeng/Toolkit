@@ -31,7 +31,7 @@
   > * "class": "sidebar_label" // 侧边栏目录名以及文件名颜色
   > * "class": "sidebar_heading"
   >
-  >     __备注：__
+  > __备注：__
   > 参考 [@stackoverflow](http://stackoverflow.com/questions/13580561/sublime-text-2-change-side-bar-color)
   > ，或[@个人设置](https://github.com/xue2zeng/Toolkit/blob/master/SublimeText/Default.sublime-theme)
   >
@@ -39,7 +39,7 @@
 
 * #####AdvancedNewFile
 
-  >     用于增强创建文件操
+  >     用于增强创建文件操作
   > 参考[@AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile)
   >
   > ######快捷键
