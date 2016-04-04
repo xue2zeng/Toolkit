@@ -19,7 +19,7 @@
 
 ###插件
 
-* Side​Bar​Enhancements
+* #####Side​Bar​Enhancements
 
   >     增强文件夹中文件右键选项操作
   > 使用Seti_UI主题，左侧边栏默认为灰白色。
@@ -31,11 +31,22 @@
   > * "class": "sidebar_label" // 侧边栏目录名以及文件名颜色
   > * "class": "sidebar_heading"
   >
-  > __备注：__
-  > 参考 [stackoverflow](http://stackoverflow.com/questions/13580561/sublime-text-2-change-side-bar-color)
-  > ，及[个人设置](https://github.com/xue2zeng/Toolkit/blob/master/SublimeText/Default.sublime-theme)
+  >     __备注：__
+  > 参考 [@stackoverflow](http://stackoverflow.com/questions/13580561/sublime-text-2-change-side-bar-color)
+  > ，或[@个人设置](https://github.com/xue2zeng/Toolkit/blob/master/SublimeText/Default.sublime-theme)
   >
-  > 2.使用[SyncedSideBar](https://packagecontrol.io/packages/SyncedSideBar)插件
+  > 2.使用[@SyncedSideBar](https://packagecontrol.io/packages/SyncedSideBar)插件
+
+* #####AdvancedNewFile
+
+  >     用于增强创建文件操
+  > 参考[@AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile)
+  >
+  > ######快捷键
+  >
+  >     Windows：ctrl+alt+n
+  >     OS X and Linux：super+alt+n
+
 
 
 ###Fedora安装Sublime Text

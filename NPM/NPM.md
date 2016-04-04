@@ -1,5 +1,5 @@
 # NPM
-> * 访问官网现在NodeJS源码进行安装
+> * 访问官网下载NodeJS源码进行安装
 >
 >         [root@localhost ~]# cd $NODEJS_PATH/.configure
 >         [root@localhost ~]# make
