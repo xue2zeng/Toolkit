@@ -16,7 +16,7 @@
 #### NVM：版本管理器
 > 参考 [NVM](https://github.com/creationix/nvm) 的Github
 >
-> nvm默认从（http://nodejs.org/dist/）下载，国外服务器非常慢，推荐从taobao的node dist镜像下载：
+> nvm默认从[http://nodejs.org/dist](http://nodejs.org/dist)下载，国外服务器非常慢，推荐从taobao的node dist镜像下载：
 > 
 >     [root@localhost ~]# NVM_NODEJS_ORG_MIRROR=https://npm.taobao.org/mirrors/node nvm install 6
 >
